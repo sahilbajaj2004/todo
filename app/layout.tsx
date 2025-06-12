@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Beautiful Todo List',
+  title: 'Todo',
   description: 'A modern, fully-featured todo list application built with Next.js',
 };
 
