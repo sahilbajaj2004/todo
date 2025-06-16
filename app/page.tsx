@@ -340,7 +340,7 @@ export default function TodoApp() {
         {/* Footer */}
         <div className="text-center mt-12 text-gray-500">
           <p className="text-sm">
-            Made By Sahil Bajaj with ❤️ using Next.js and  React...........
+            Made By Sahil Bajaj with ❤️ using Next.js and  React............
           </p>
         </div>
       </div>
